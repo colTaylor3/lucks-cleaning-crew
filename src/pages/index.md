@@ -1,70 +1,32 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+
+image: /img/fullwidth.jpg
+heading: ""
+subheading: ""
+
 mainpitch:
-  title: Why Kaldi
+  title: "Our Misson"
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    At Luck's Cleaning Crew, we are committed to providing you with the essential materials 
+    and services your business needs to operate efficiently and maintain a safe, clean environment.
+    Whether you require professional cleaning services, high-quality towel rentals, or commercial mat rentals, 
+    we've got you covered.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/floorwithdoormat.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We offer professional commercial mat rental services designed to help keep your business clean, safe, and welcoming for both customers and employees. Our high-quality mats not only help maintain hygiene and prevent slips and falls, but they also enhance the overall appearance of your business. Additionally, if you’re looking to elevate your brand, we provide custom logo mats that add a personalized touch while delivering functional benefits. Whatever your mat rental needs, we’ve got you covered with reliable, tailored solutions.
+    - image: /img/towels.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We specialize in providing high-quality towel rental services to businesses across a wide range of industries. 
+        Whether you’re in hospitality, fitness, medical, or any other sector, we offer reliable, clean, and premium towels tailored to meet your specific needs. 
+        Whatever the size or scope of your business, if you require towel rentals, you can count on us to deliver top-notch 
+        service and ensure you have everything you need to keep your operations running smoothly.
+    - image: /img/cleaning.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+        We provide professional commercial cleaning services to keep your business environment spotless, 
+        safe, and welcoming for both your employees and customers. From daily office cleaning to 
+        deep cleaning solutions, our team ensures your space meets the highest standards of cleanliness and hygiene.
 ---
